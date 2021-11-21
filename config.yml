@@ -1,7 +1,9 @@
-baseURL: "https://quanon.blog/"
+baseURL: "https://quanon.github.io/blog/"
 languageCode: ja-JP
 title: QUANON.blog
 theme: PaperMod
+canonifyurls: true
+publishDir: "docs"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
