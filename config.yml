@@ -37,7 +37,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "QUANON のブログです。"
+  description: "僕がいたあらゆる場所。"
   author: QUANON
   # author: ["Me", "You"] # multiple authors
 
